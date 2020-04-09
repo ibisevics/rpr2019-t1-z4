@@ -1,6 +1,8 @@
 package ba.unsa.etf.rpr;
 
 import java.util.Scanner;
+import ba.unsa.etf.rpr.Supermarket;
+import ba.unsa.etf.rpr.Korpa;
 
 public class Main {
 
